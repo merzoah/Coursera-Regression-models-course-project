@@ -2,7 +2,9 @@
 title: "Regression models project"
 author: "Mathew Erzoah"
 date: "March 29, 2021"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
