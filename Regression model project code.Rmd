@@ -109,5 +109,5 @@ plot(betterFit)
 
 
 ##Source of document
-This report was created using the knitr package, source is available at the following link, for verification: 
-[github]()
+This report was created using the knitr package, source is available on the link [My knitr code](https://github.com/merzoah/Coursera-Regression-models-course-project/blob/master/Regression%20model%20project%20code.Rmd) 
+
